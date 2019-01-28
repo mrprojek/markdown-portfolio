@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+* Video Games
+  * Call of Duty
+  * Fortnite
+  * Spider Man
+* Music
+  * Kendrick Lamar
+  * J. Cole
+  * Childish Gambino
+* Sports
+  * Soccer
+  * Football
+  * Basketball
