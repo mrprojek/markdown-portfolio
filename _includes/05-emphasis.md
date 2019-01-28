@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Have played __Call of Duty__ since *World at War.* I have been to many 6 **Kendrick Lamar** concerts. I am friends with an _awesome_ DJ that goes by the name of __RL Grime_ 
